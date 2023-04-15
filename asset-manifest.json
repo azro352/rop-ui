@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c5afa33.css",
-    "main.js": "/static/js/main.bd5e6c7c.js",
-    "static/js/787.5a94460c.chunk.js": "/static/js/787.5a94460c.chunk.js",
-    "index.html": "/index.html",
-    "main.4c5afa33.css.map": "/static/css/main.4c5afa33.css.map",
-    "main.bd5e6c7c.js.map": "/static/js/main.bd5e6c7c.js.map",
-    "787.5a94460c.chunk.js.map": "/static/js/787.5a94460c.chunk.js.map"
+    "main.css": "/rop-ui/static/css/main.4c5afa33.css",
+    "main.js": "/rop-ui/static/js/main.c91b4ac6.js",
+    "static/js/787.5a94460c.chunk.js": "/rop-ui/static/js/787.5a94460c.chunk.js",
+    "index.html": "/rop-ui/index.html",
+    "main.4c5afa33.css.map": "/rop-ui/static/css/main.4c5afa33.css.map",
+    "main.c91b4ac6.js.map": "/rop-ui/static/js/main.c91b4ac6.js.map",
+    "787.5a94460c.chunk.js.map": "/rop-ui/static/js/787.5a94460c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c5afa33.css",
-    "static/js/main.bd5e6c7c.js"
+    "static/js/main.c91b4ac6.js"
   ]
 }
